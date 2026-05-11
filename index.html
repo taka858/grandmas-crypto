@@ -6,6 +6,62 @@
     <title>Grandma's Crypto - Easy Crypto Explained</title>
     <link rel="stylesheet" href="styles.css">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        .hero {
+            text-align: center;
+            padding: 80px 20px;
+        }
+        .hero h1 {
+            font-size: 3.5em;
+            margin-bottom: 30px;
+            color: var(--dark);
+        }
+        .hero-message {
+            max-width: 700px;
+            margin: 0 auto 40px;
+            font-size: 1.2em;
+            line-height: 1.8;
+            color: #555;
+        }
+        .hero-message p {
+            margin-bottom: 20px;
+        }
+        .cta-buttons {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 50px;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 15px 30px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1em;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: none;
+        }
+        .cta-primary {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
+            color: white;
+        }
+        .cta-primary:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(255, 107, 157, 0.3);
+        }
+        .divider {
+            margin: 60px 0;
+            border: none;
+            border-top: 2px solid var(--light);
+        }
+        .articles-section {
+            max-width: 1200px;
+            margin: 60px auto 0;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -17,16 +73,176 @@
 
     <main>
         <div class="container">
-            <section id="articles" class="articles-grid">
+            <!-- Hero Section -->
+            <section class="hero">
+                <h2>Welcome, Dear 💚</h2>
+                <div class="hero-message">
+                    <p>Welcome! I'm so happy you're here.</p>
+                    <p>My name is Grandma, and I'm learning about digital money. Yes, at my age! And you know what? It's actually quite wonderful.</p>
+                    <p>This blog is about my real journey—from my first confused question to my first real understanding. It's simple, it's kind, and it's honest.</p>
+                    <p>Whether you're a curious beginner like me, or just here for the story, you're in the right place. Let's learn about the future of money together, one easy page at a time.</p>
+                </div>
+                <div class="cta-buttons">
+                    <button class="cta-button cta-primary" onclick="scrollToArticles()">
+                        📖 Read My Stories
+                    </button>
+                </div>
+            </section>
+
+            <hr class="divider">
+
+            <!-- Articles Section -->
+            <section id="articles" class="articles-section">
                 <!-- Articles will load here -->
             </section>
         </div>
     </main>
 
     <footer>
-        <p>&copy; 2026 Grandma's Crypto. All rights reserved.</p>
+        <p>&copy; 2026 Grandma's Crypto. Made with love. 💚</p>
     </footer>
 
-    <script src="script.js"></script>
+    <script>
+        async function loadArticles() {
+            try {
+                const response = await fetch('./articles.json');
+                if (!response.ok) {
+                    console.log('No articles.json found');
+                    loadDynamicArticles();
+                    return;
+                }
+                const articlesData = await response.json();
+                displayArticles(articlesData);
+            } catch (error) {
+                console.log('Loading articles dynamically...');
+                loadDynamicArticles();
+            }
+        }
+
+        async function loadDynamicArticles() {
+            // Try to load markdown files dynamically
+            const articleFiles = [
+                '2026-05-10-welcome-grandmas-journey.md'
+            ];
+
+            const articles = [];
+
+            for (const file of articleFiles) {
+                try {
+                    const response = await fetch(`./articles/${file}`);
+                    if (response.ok) {
+                        const content = await response.text();
+                        const titleMatch = content.match(/^# (.+)$/m);
+                        const dateMatch = file.match(/^(\d{4}-\d{2}-\d{2})/);
+
+                        const article = {
+                            filename: file,
+                            title: titleMatch ? titleMatch[1] : file,
+                            date: dateMatch ? dateMatch[1] : '',
+                            preview: content.split('\n').slice(2, 5).join(' ').substring(0, 150) + '...'
+                        };
+                        articles.push(article);
+                    }
+                } catch (error) {
+                    console.log(`Could not load ${file}`);
+                }
+            }
+
+            displayArticles(articles);
+        }
+
+        function displayArticles(articlesData) {
+            const articlesSection = document.getElementById('articles');
+
+            if (!articlesData || articlesData.length === 0) {
+                articlesSection.innerHTML = '<p style="text-align: center; color: #888;">More stories coming soon... 💚</p>';
+                return;
+            }
+
+            let html = '<h2 style="margin-bottom: 30px; text-align: center; color: var(--dark);">My Stories</h2>';
+            html += '<div class="articles-grid">';
+
+            articlesData.forEach(article => {
+                html += `
+                    <article class="article-card">
+                        <div class="article-card-header">
+                            <h3>${article.title}</h3>
+                            <div class="article-date">${formatDate(article.date)}</div>
+                        </div>
+                        <div class="article-card-body">
+                            <p class="article-preview">${article.preview}</p>
+                            <a href="#" class="read-more" onclick="viewArticle('${article.filename}'); return false;">
+                                Read More →
+                            </a>
+                        </div>
+                    </article>
+                `;
+            });
+
+            html += '</div>';
+            articlesSection.innerHTML = html;
+        }
+
+        function formatDate(dateStr) {
+            if (!dateStr) return '';
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            });
+        }
+
+        async function viewArticle(filename) {
+            try {
+                const response = await fetch(`./articles/${filename}`);
+                if (!response.ok) {
+                    console.error(`Could not load article: ${filename}`);
+                    return;
+                }
+
+                const markdown = await response.text();
+                const html = marked.parse(markdown);
+
+                const titleMatch = markdown.match(/^# (.+)$/m);
+                const title = titleMatch ? titleMatch[1] : filename;
+
+                const dateMatch = filename.match(/^(\d{4}-\d{2}-\d{2})/);
+                const date = dateMatch ? dateMatch[1] : '';
+
+                displayArticleDetail(title, date, html);
+            } catch (error) {
+                console.error('Error loading article:', error);
+                alert('Could not load article. Please try again.');
+            }
+        }
+
+        function displayArticleDetail(title, date, content) {
+            const articlesSection = document.getElementById('articles');
+            articlesSection.innerHTML = `
+                <article class="article-detail" style="grid-column: 1 / -1;">
+                    <a href="#" class="back-button" onclick="loadArticles(); return false;">← Back to Stories</a>
+                    <h1>${title}</h1>
+                    <div class="article-detail-meta">
+                        📅 ${formatDate(date)}
+                    </div>
+                    <div class="article-detail-content">
+                        ${content}
+                    </div>
+                    <div style="margin-top: 40px; padding-top: 20px; border-top: 2px solid #f0f0f0;">
+                        <a href="#" class="back-button" onclick="loadArticles(); return false;">← Back to Stories</a>
+                    </div>
+                </article>
+            `;
+            window.scrollTo(0, 0);
+        }
+
+        function scrollToArticles() {
+            document.getElementById('articles').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        // Load articles on page load
+        document.addEventListener('DOMContentLoaded', loadArticles);
+    </script>
 </body>
 </html>
