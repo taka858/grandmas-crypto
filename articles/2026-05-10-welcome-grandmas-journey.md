@@ -1,10 +1,10 @@
-# Hello, Dear. Welcome to My Crypto Journey 👵💚
+﻿# Hello, Dear. Welcome to My Crypto Journey ðŸ‘µðŸ’š
 
 Welcome! I'm so happy to share this with you.
 
 My name is Grandma, and I'm learning about digital money. Yes, at my age! And you know what? It's actually quite wonderful.
 
-We're leaving all the confusing tech talk at the door. This blog is about my journey—from my first confused question to my first real understanding. It's simple, it's kind, and it's real.
+We're leaving all the confusing tech talk at the door. This blog is about my journeyâ€”from my first confused question to my first real understanding. It's simple, it's kind, and it's real.
 
 Whether you're a curious beginner like me, or just here for the story, pull up a chair. Let's learn about the future of money together, one easy page at a time.
 
@@ -18,7 +18,7 @@ I turned to my grandchild and asked: *"What is this Bitcoin everyone keeps talki
 
 You know what? I was genuinely curious. Not scared. Not confused. Just... interested.
 
-And that's when it hit me—if I can learn this, so can anyone.
+And that's when it hit meâ€”if I can learn this, so can anyone.
 
 ## What You'll Find Here
 
@@ -45,7 +45,7 @@ That's progress. That's growth. And it feels wonderful.
 
 Every page here is a step on my journey. From "What is Bitcoin?" to "How does it really work?" to maybe one day, "How can I actually use this?"
 
-I'm not rushing. I'm just here to understand something new—something that's changing how the world thinks about money.
+I'm not rushing. I'm just here to understand something newâ€”something that's changing how the world thinks about money.
 
 And I'm doing it the way that works best for me: **gently, clearly, with kindness.**
 
@@ -53,11 +53,22 @@ My friends said I was crazy for learning this. But you know what? Life is too sh
 
 ---
 
-**Are you curious too?** Come back soon, dear. I've got more questions—and I think you might have some of your own.
+**Are you curious too?** Come back soon, dear. I've got more questionsâ€”and I think you might have some of your own.
 
 I promise... they're the good kind. The kind that lead to real understanding.
 
 With warmth,  
-**Grandma** 💚
+**Grandma** ðŸ’š
 
 *One easy page at a time.*
+---
+
+## 💚 **Ready to Start Trading?**
+
+Use my Kraken referral link and get exclusive benefits:
+
+👉 **[Open a Free Kraken Account](https://proinvite.kraken.com/9f1e/u0v6949d)**
+
+When you trade through my link, you support my content—and I earn a small commission!
+
+*Thank you for supporting Grandma's Crypto! 💚*

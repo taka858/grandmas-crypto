@@ -1,4 +1,4 @@
-# Crypto Glossary: Essential Terms for Beginners 📚
+﻿# Crypto Glossary: Essential Terms for Beginners ðŸ“š
 
 Dear, crypto has its own language.
 
@@ -8,7 +8,7 @@ Think of this as your crypto dictionary.
 
 ---
 
-## 💰 **MONEY & TRADING**
+## ðŸ’° **MONEY & TRADING**
 
 **Crypto / Cryptocurrency**
 Digital money you can send online. Bitcoin, Ethereum, etc.
@@ -42,13 +42,13 @@ Secret code to access your wallet. NEVER share it.
 
 ---
 
-## 📈 **MARKET TERMS**
+## ðŸ“ˆ **MARKET TERMS**
 
 **Bull Market**
-Prices going UP. Everyone is happy. 🐂
+Prices going UP. Everyone is happy. ðŸ‚
 
 **Bear Market**
-Prices going DOWN. Everyone is sad. 🐻
+Prices going DOWN. Everyone is sad. ðŸ»
 
 **HODL**
 Hold = don't sell. "HODL" became crypto slang for "hold no matter what."
@@ -57,7 +57,7 @@ Hold = don't sell. "HODL" became crypto slang for "hold no matter what."
 Price going way up. "Bitcoin is going to the moon!" = prices rising.
 
 **Pump and Dump**
-Buy low → advertise heavily → price goes up → sell at top → price crashes. (SCAM)
+Buy low â†’ advertise heavily â†’ price goes up â†’ sell at top â†’ price crashes. (SCAM)
 
 **FOMO**
 Fear Of Missing Out. Buying in a panic because price is rising.
@@ -75,14 +75,14 @@ Highest price ever. "Bitcoin hit a new ATH!"
 Lowest price ever.
 
 **Market Cap**
-Total value of all coins. Market Cap = Price × Total Coins.
+Total value of all coins. Market Cap = Price Ã— Total Coins.
 
 **Volume**
 Amount of crypto traded today. High volume = active market.
 
 ---
 
-## 🔧 **TECHNOLOGY**
+## ðŸ”§ **TECHNOLOGY**
 
 **Blockchain**
 Database of transactions, shared across many computers. Very secure.
@@ -122,7 +122,7 @@ Put crypto in a pool, earn interest. Higher risk, higher reward.
 
 ---
 
-## 📊 **PRICE ACTIONS**
+## ðŸ“Š **PRICE ACTIONS**
 
 **Pump**
 Price jumps up suddenly.
@@ -153,16 +153,16 @@ Price stays around same level. Before big move.
 
 ---
 
-## 👥 **COMMUNITY SLANG**
+## ðŸ‘¥ **COMMUNITY SLANG**
 
 **Lambo**
 "When lambo?" = When will I be rich enough to buy a Lamborghini? (Joke)
 
 **Diamond Hands**
-Someone who holds even when prices drop. Strong, doesn't sell. 💎
+Someone who holds even when prices drop. Strong, doesn't sell. ðŸ’Ž
 
 **Paper Hands**
-Someone who sells quickly when scared. Weak, panics easily. 📄
+Someone who sells quickly when scared. Weak, panics easily. ðŸ“„
 
 **Bag**
 Amount of crypto you own. "I have a big bag of Bitcoin."
@@ -181,7 +181,7 @@ Someone who bought high and holds coins that dropped. Now stuck.
 
 ---
 
-## 💡 **INVESTMENT TERMS**
+## ðŸ’¡ **INVESTMENT TERMS**
 
 **DCA (Dollar Cost Averaging)**
 Buy same amount every week/month. Reduces risk.
@@ -206,7 +206,7 @@ Adjust your portfolio back to target amounts.
 
 ---
 
-## ⚠️ **RISK TERMS**
+## âš ï¸ **RISK TERMS**
 
 **Volatility**
 Price changes a lot. High = risky.
@@ -225,13 +225,13 @@ Risk that the other party disappears or fails.
 
 ---
 
-## 🎓 **GRANDMA'S GLOSSARY TIPS**
+## ðŸŽ“ **GRANDMA'S GLOSSARY TIPS**
 
-✅ Don't know a word? Google it + "crypto"  
-✅ Join communities (Discord, Reddit) and ask questions  
-✅ Write down words you don't understand  
-✅ Read articles slowly. It's okay not to know everything  
-✅ Ask for help. Everyone started as a beginner  
+âœ… Don't know a word? Google it + "crypto"  
+âœ… Join communities (Discord, Reddit) and ask questions  
+âœ… Write down words you don't understand  
+âœ… Read articles slowly. It's okay not to know everything  
+âœ… Ask for help. Everyone started as a beginner  
 
 **The Most Important Words:**
 
@@ -243,12 +243,23 @@ Risk that the other party disappears or fails.
 
 ---
 
-## 🎯 **What Now?**
+## ðŸŽ¯ **What Now?**
 
 You've learned the language. Time to explore deeper.
 
 Go back and re-read other articles. Now you understand the words!
 
-Crypto becomes MUCH clearer when you know the vocabulary. 💚
+Crypto becomes MUCH clearer when you know the vocabulary. ðŸ’š
 
 *Knowledge is power. Start here.*
+---
+
+## 💚 **Ready to Start Trading?**
+
+Use my Kraken referral link and get exclusive benefits:
+
+👉 **[Open a Free Kraken Account](https://proinvite.kraken.com/9f1e/u0v6949d)**
+
+When you trade through my link, you support my content—and I earn a small commission!
+
+*Thank you for supporting Grandma's Crypto! 💚*

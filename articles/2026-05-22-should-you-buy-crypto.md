@@ -1,4 +1,4 @@
-# Should You Buy Crypto? 🤔
+﻿# Should You Buy Crypto? ðŸ¤”
 
 Dear, after learning all this, you might ask: **Should I actually buy cryptocurrency?**
 
@@ -24,6 +24,17 @@ Some people buy Bitcoin and hold it for years. Some people never buy. Both can b
 
 What matters is: **Make YOUR choice**, not someone else's.
 
-No one gets rich by following someone else's dream. You get rich by understanding YOUR path. 💚
+No one gets rich by following someone else's dream. You get rich by understanding YOUR path. ðŸ’š
 
 *Grandma's final wisdom: The best investment is the one that lets you sleep at night.*
+---
+
+## 💚 **Ready to Start Trading?**
+
+Use my Kraken referral link and get exclusive benefits:
+
+👉 **[Open a Free Kraken Account](https://proinvite.kraken.com/9f1e/u0v6949d)**
+
+When you trade through my link, you support my content—and I earn a small commission!
+
+*Thank you for supporting Grandma's Crypto! 💚*

@@ -1,4 +1,4 @@
-# Types of Crypto Wallets: A Beginner's Guide 💳
+﻿# Types of Crypto Wallets: A Beginner's Guide ðŸ’³
 
 Dear, your crypto needs a home. That home is called a wallet.
 
@@ -26,22 +26,22 @@ Never, ever share your private key.
 
 ---
 
-## **TYPE 1: Exchange Wallets** 🏦
+## **TYPE 1: Exchange Wallets** ðŸ¦
 
 **What it is:**
 Your coins live on Coinbase, Kraken, or Binance. They hold them for you.
 
 **Pros:**
-✅ Super easy to use  
-✅ Buy/sell instantly  
-✅ Customer support if you have problems  
-✅ Insurance protection (some exchanges)  
+âœ… Super easy to use  
+âœ… Buy/sell instantly  
+âœ… Customer support if you have problems  
+âœ… Insurance protection (some exchanges)  
 
 **Cons:**
-❌ You don't control your keys  
-❌ If exchange gets hacked, your coins are at risk  
-❌ Slower transfers  
-❌ You trust a company with your money  
+âŒ You don't control your keys  
+âŒ If exchange gets hacked, your coins are at risk  
+âŒ Slower transfers  
+âŒ You trust a company with your money  
 
 **Best for:**
 Beginners. Active traders. People who buy/sell frequently.
@@ -50,7 +50,7 @@ Beginners. Active traders. People who buy/sell frequently.
 
 ---
 
-## **TYPE 2: Software Wallets** 💻
+## **TYPE 2: Software Wallets** ðŸ’»
 
 **What it is:**
 An app on your phone or computer. You control your keys.
@@ -62,17 +62,17 @@ An app on your phone or computer. You control your keys.
 - Electrum (Bitcoin only)
 
 **Pros:**
-✅ You control your keys  
-✅ Easy to use  
-✅ Free  
-✅ Fast transactions  
-✅ Can access anytime  
+âœ… You control your keys  
+âœ… Easy to use  
+âœ… Free  
+âœ… Fast transactions  
+âœ… Can access anytime  
 
 **Cons:**
-❌ If computer gets hacked, coins are at risk  
-❌ If you lose password, coins are GONE  
-❌ No customer support  
-❌ You're responsible for security  
+âŒ If computer gets hacked, coins are at risk  
+âŒ If you lose password, coins are GONE  
+âŒ No customer support  
+âŒ You're responsible for security  
 
 **Best for:**
 Intermediate users. People comfortable with tech.
@@ -81,7 +81,7 @@ Intermediate users. People comfortable with tech.
 
 ---
 
-## **TYPE 3: Hardware Wallets** 🔐
+## **TYPE 3: Hardware Wallets** ðŸ”
 
 **What it is:**
 A physical device (like a USB stick) that stores your keys offline.
@@ -92,17 +92,17 @@ A physical device (like a USB stick) that stores your keys offline.
 - Coldcard ($150)
 
 **Pros:**
-✅ Safest option (keys offline)  
-✅ Even if computer hacked, coins safe  
-✅ You control everything  
-✅ Professional security  
-✅ Support from company  
+âœ… Safest option (keys offline)  
+âœ… Even if computer hacked, coins safe  
+âœ… You control everything  
+âœ… Professional security  
+âœ… Support from company  
 
 **Cons:**
-❌ Expensive ($100-300)  
-❌ Physical device can be lost  
-❌ Slightly more complicated  
-❌ Slower (by seconds)  
+âŒ Expensive ($100-300)  
+âŒ Physical device can be lost  
+âŒ Slightly more complicated  
+âŒ Slower (by seconds)  
 
 **Best for:**
 People holding lots of crypto long-term. Security-conscious investors.
@@ -111,21 +111,21 @@ People holding lots of crypto long-term. Security-conscious investors.
 
 ---
 
-## **TYPE 4: Paper Wallets** 📄
+## **TYPE 4: Paper Wallets** ðŸ“„
 
 **What it is:**
 Your private key written on paper. That's it.
 
 **Pros:**
-✅ Completely offline = ultra-safe  
-✅ Free  
-✅ No tech needed  
+âœ… Completely offline = ultra-safe  
+âœ… Free  
+âœ… No tech needed  
 
 **Cons:**
-❌ Very inconvenient  
-❌ Paper can burn, get wet, get lost  
-❌ Slow to use (must scan QR code)  
-❌ Easy to make mistakes  
+âŒ Very inconvenient  
+âŒ Paper can burn, get wet, get lost  
+âŒ Slow to use (must scan QR code)  
+âŒ Easy to make mistakes  
 
 **Best for:**
 EXTREME long-term holders. "Forget about it for 10 years" people.
@@ -138,10 +138,10 @@ EXTREME long-term holders. "Forget about it for 10 years" people.
 
 | Wallet Type | Ease | Security | Speed | Cost | Best For |
 |-------------|------|----------|-------|------|----------|
-| Exchange | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | Free | Beginners |
-| Software | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | Free | Intermediate |
-| Hardware | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | $150+ | Long-term |
-| Paper | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ | Free | Extreme HODL |
+| Exchange | â­â­â­â­â­ | â­â­ | â­â­â­â­â­ | Free | Beginners |
+| Software | â­â­â­â­ | â­â­â­ | â­â­â­â­ | Free | Intermediate |
+| Hardware | â­â­â­ | â­â­â­â­â­ | â­â­â­ | $150+ | Long-term |
+| Paper | â­â­ | â­â­â­â­â­ | â­ | Free | Extreme HODL |
 
 ---
 
@@ -169,14 +169,14 @@ Diversify your security.
 
 ## **SECURITY CHECKLIST**
 
-✅ Never share your private key with ANYONE  
-✅ Write down seed phrase on PAPER (not digital)  
-✅ Store paper safely (safe, bank box, buried treasure?)  
-✅ Use strong passwords (16+ characters)  
-✅ Enable 2FA on exchange accounts  
-✅ Don't store keys on cloud (Google Drive, Dropbox)  
-✅ Use official wallets only (not fakes)  
-✅ Test with small amount first  
+âœ… Never share your private key with ANYONE  
+âœ… Write down seed phrase on PAPER (not digital)  
+âœ… Store paper safely (safe, bank box, buried treasure?)  
+âœ… Use strong passwords (16+ characters)  
+âœ… Enable 2FA on exchange accounts  
+âœ… Don't store keys on cloud (Google Drive, Dropbox)  
+âœ… Use official wallets only (not fakes)  
+âœ… Test with small amount first  
 
 ---
 
@@ -195,13 +195,13 @@ Why? One mistake and money is gone forever.
 
 ## **COMMON MISTAKES**
 
-❌ Storing keys on computer (malware risk)  
-❌ Writing down seed phrase digitally (no!)  
-❌ Taking screenshots of private keys  
-❌ Using the same password everywhere  
-❌ Telling people how much crypto you own  
-❌ Using old/outdated wallet software  
-❌ Clicking suspicious links  
+âŒ Storing keys on computer (malware risk)  
+âŒ Writing down seed phrase digitally (no!)  
+âŒ Taking screenshots of private keys  
+âŒ Using the same password everywhere  
+âŒ Telling people how much crypto you own  
+âŒ Using old/outdated wallet software  
+âŒ Clicking suspicious links  
 
 ---
 
@@ -226,6 +226,17 @@ Your wallet choice matters.
 Bad choice = hacked, lost money, regret.  
 Good choice = safe, peaceful sleep, wealth building.
 
-Start simple. Upgrade as you learn. 💚
+Start simple. Upgrade as you learn. ðŸ’š
 
 *Your keys, your crypto. Your responsibility. Choose wisely.*
+---
+
+## 💚 **Ready to Start Trading?**
+
+Use my Kraken referral link and get exclusive benefits:
+
+👉 **[Open a Free Kraken Account](https://proinvite.kraken.com/9f1e/u0v6949d)**
+
+When you trade through my link, you support my content—and I earn a small commission!
+
+*Thank you for supporting Grandma's Crypto! 💚*

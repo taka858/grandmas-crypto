@@ -1,4 +1,4 @@
-# How to Buy Your First Crypto 💰
+﻿# How to Buy Your First Crypto ðŸ’°
 
 Dear, you want to buy crypto but don't know where to start?
 
@@ -72,22 +72,33 @@ Why? So if something goes wrong, you don't lose much while learning.
 
 **Real talk:**
 
-⚠️ Crypto prices change FAST  
-⚠️ You could lose money  
-⚠️ This is NOT guaranteed income  
-⚠️ Only invest what you can afford to lose
+âš ï¸ Crypto prices change FAST  
+âš ï¸ You could lose money  
+âš ï¸ This is NOT guaranteed income  
+âš ï¸ Only invest what you can afford to lose
 
 **But here's the good news:**
 
-✅ The process is simple (5 minutes)  
-✅ Your money is protected (regulated exchanges)  
-✅ You can sell anytime  
-✅ You're building your crypto journey
+âœ… The process is simple (5 minutes)  
+âœ… Your money is protected (regulated exchanges)  
+âœ… You can sell anytime  
+âœ… You're building your crypto journey
 
 **Grandma's advice:**
 
 Don't wait for the "perfect time" to buy. The best time was years ago. The second best time is TODAY.
 
-Start small. Learn as you go. 💚
+Start small. Learn as you go. ðŸ’š
 
 *Welcome to the crypto world, friend. You've got this.*
+---
+
+## 💚 **Ready to Start Trading?**
+
+Use my Kraken referral link and get exclusive benefits:
+
+👉 **[Open a Free Kraken Account](https://proinvite.kraken.com/9f1e/u0v6949d)**
+
+When you trade through my link, you support my content—and I earn a small commission!
+
+*Thank you for supporting Grandma's Crypto! 💚*

@@ -1,4 +1,4 @@
-# How to Build Your Crypto Portfolio 📊
+﻿# How to Build Your Crypto Portfolio ðŸ“Š
 
 Dear, putting all your eggs in one basket is risky.
 
@@ -10,8 +10,8 @@ Let me teach you how.
 
 **Why Portfolio Matters**
 
-❌ All Bitcoin = if Bitcoin crashes, you lose everything  
-✅ Bitcoin + Ethereum + Stablecoin = more stable  
+âŒ All Bitcoin = if Bitcoin crashes, you lose everything  
+âœ… Bitcoin + Ethereum + Stablecoin = more stable  
 
 Diversification = sleeping peacefully.
 
@@ -19,7 +19,7 @@ Diversification = sleeping peacefully.
 
 ## **THE 3-PART PORTFOLIO**
 
-### **1. Core Holdings (50-60%)** 🏛️
+### **1. Core Holdings (50-60%)** ðŸ›ï¸
 
 **What:** Big, established coins.
 
@@ -35,7 +35,7 @@ Diversification = sleeping peacefully.
 
 ---
 
-### **2. Alternative Coins (30-40%)** 🚀
+### **2. Alternative Coins (30-40%)** ðŸš€
 
 **What:** Newer, interesting projects.
 
@@ -53,7 +53,7 @@ Diversification = sleeping peacefully.
 
 ---
 
-### **3. Stablecoins (10-20%)** 💵
+### **3. Stablecoins (10-20%)** ðŸ’µ
 
 **What:** Coins tied to USD. Don't change price much.
 
@@ -109,11 +109,11 @@ Diversification = sleeping peacefully.
 ### **Step 1: Decide Your Risk Level**
 
 Are you:
-- ⚪ Conservative? (want safety)
-- 🟡 Balanced? (want growth + safety)
-- 🔴 Aggressive? (want growth, can lose money)
+- âšª Conservative? (want safety)
+- ðŸŸ¡ Balanced? (want growth + safety)
+- ðŸ”´ Aggressive? (want growth, can lose money)
 
-Pick one. Honest answer. 💡
+Pick one. Honest answer. ðŸ’¡
 
 ### **Step 2: Choose Your Mix**
 
@@ -189,27 +189,27 @@ More options:
 
 ## **WHAT NOT TO DO**
 
-❌ All in on one coin (too risky)  
-❌ Shitcoins (99% go to zero)  
-❌ Following influencers blindly  
-❌ Copying other people's portfolios exactly  
-❌ Panic selling after 1% drop  
-❌ FOMO buying at peak prices  
-❌ Leverage trading (borrowed money)  
-❌ Believing someone will 100x quick  
+âŒ All in on one coin (too risky)  
+âŒ Shitcoins (99% go to zero)  
+âŒ Following influencers blindly  
+âŒ Copying other people's portfolios exactly  
+âŒ Panic selling after 1% drop  
+âŒ FOMO buying at peak prices  
+âŒ Leverage trading (borrowed money)  
+âŒ Believing someone will 100x quick  
 
 ---
 
 ## **WHAT TO DO INSTEAD**
 
-✅ Mix boring + exciting coins  
-✅ Hold quality projects only  
-✅ Do your own research  
-✅ Build YOUR portfolio (not copy others)  
-✅ Think long-term (5+ years)  
-✅ Stick to your plan  
-✅ Rebalance yearly  
-✅ Be patient  
+âœ… Mix boring + exciting coins  
+âœ… Hold quality projects only  
+âœ… Do your own research  
+âœ… Build YOUR portfolio (not copy others)  
+âœ… Think long-term (5+ years)  
+âœ… Stick to your plan  
+âœ… Rebalance yearly  
+âœ… Be patient  
 
 ---
 
@@ -259,6 +259,17 @@ I became rich by:
 4. Rebalancing yearly
 5. Not panicking
 
-That's it. Boring but effective. 💚
+That's it. Boring but effective. ðŸ’š
 
 *Your portfolio is like a garden. Plant different seeds. Water regularly. Be patient for harvest.*
+---
+
+## 💚 **Ready to Start Trading?**
+
+Use my Kraken referral link and get exclusive benefits:
+
+👉 **[Open a Free Kraken Account](https://proinvite.kraken.com/9f1e/u0v6949d)**
+
+When you trade through my link, you support my content—and I earn a small commission!
+
+*Thank you for supporting Grandma's Crypto! 💚*
