@@ -1,4 +1,4 @@
-﻿# Understanding Blockchain ðŸ“–
+﻿# Understanding Blockchain
 
 Hello dear, today I want to explain something magical called **blockchain**.
 
@@ -24,3 +24,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

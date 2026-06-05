@@ -1,4 +1,4 @@
-﻿# Your Secret Key is Everything ðŸ”‘
+﻿# Your Secret Key is Everything
 
 Dear, remember I mentioned the **secret key** to your wallet?
 
@@ -28,3 +28,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

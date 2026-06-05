@@ -1,4 +1,4 @@
-﻿# AI and Crypto: The Future is Now ðŸ¤–ðŸ’°
+﻿# AI and Crypto: The Future is Now
 
 Dear, something amazing is happening right now. **AI and crypto are joining forces.**
 
@@ -44,3 +44,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

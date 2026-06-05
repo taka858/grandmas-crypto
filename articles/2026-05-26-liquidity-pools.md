@@ -1,4 +1,4 @@
-﻿# Liquidity Pools Explained ðŸŒŠ
+﻿# Liquidity Pools Explained
 
 Dear, imagine a farmer's market where nobody runs the stand. The farmers just put their goods there, and customers come and trade. The system runs itself. ðŸ¥•
 
@@ -37,3 +37,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

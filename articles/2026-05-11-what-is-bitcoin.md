@@ -1,4 +1,4 @@
-﻿# What is Bitcoin? ðŸ’°
+﻿# What is Bitcoin?
 
 Hello dear, let me tell you about Bitcoin in the simplest way possible.
 
@@ -22,3 +22,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

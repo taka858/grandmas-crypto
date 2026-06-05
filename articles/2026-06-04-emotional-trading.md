@@ -1,4 +1,4 @@
-﻿# Staying Calm in the Crypto World 🧘
+﻿# Staying Calm in the Crypto World
 
 Dear, I want to tell you something important.
 
@@ -115,3 +115,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

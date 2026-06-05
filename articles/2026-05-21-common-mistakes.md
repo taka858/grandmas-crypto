@@ -1,4 +1,4 @@
-﻿# Mistakes I Almost Made ðŸ˜…
+﻿# Mistakes I Almost Made
 
 Dear, let me be honestâ€”when I started learning about crypto, I almost fell for some tricks.
 
@@ -32,3 +32,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

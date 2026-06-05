@@ -1,4 +1,4 @@
-﻿# The Future of Money ðŸŒ
+﻿# The Future of Money
 
 Dear, I want to dream with you about the **future of money**.
 
@@ -36,3 +36,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

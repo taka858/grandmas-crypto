@@ -1,4 +1,4 @@
-﻿# Crypto Security Tips ðŸ”
+﻿# Crypto Security Tips
 
 Dear, having crypto is wonderful. But keeping it safe is even MORE important.
 
@@ -38,3 +38,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

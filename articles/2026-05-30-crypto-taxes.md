@@ -1,4 +1,4 @@
-﻿# Cryptocurrency and Taxes: What You Need to Know ðŸ›ï¸
+﻿# Cryptocurrency and Taxes: What You Need to Know
 
 Dear, let's talk about something nobody enjoys but everyone must face: **taxes**.
 
@@ -145,3 +145,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

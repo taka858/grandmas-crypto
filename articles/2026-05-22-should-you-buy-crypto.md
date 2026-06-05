@@ -1,4 +1,4 @@
-﻿# Should You Buy Crypto? ðŸ¤”
+﻿# Should You Buy Crypto?
 
 Dear, after learning all this, you might ask: **Should I actually buy cryptocurrency?**
 
@@ -38,3 +38,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

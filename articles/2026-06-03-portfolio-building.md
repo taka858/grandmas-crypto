@@ -1,4 +1,4 @@
-﻿# How to Build Your Crypto Portfolio ðŸ“Š
+﻿# How to Build Your Crypto Portfolio
 
 Dear, putting all your eggs in one basket is risky.
 
@@ -273,3 +273,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

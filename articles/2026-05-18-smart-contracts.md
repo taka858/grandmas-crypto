@@ -1,4 +1,4 @@
-﻿# Smart Contracts Explained ðŸ¤–
+﻿# Smart Contracts Explained
 
 Dear, let me tell you about one of my favorite inventionsâ€”**smart contracts**.
 
@@ -32,3 +32,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

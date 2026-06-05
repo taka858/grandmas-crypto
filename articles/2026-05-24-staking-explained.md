@@ -1,4 +1,4 @@
-﻿# Staking Explained ðŸŒ¾
+﻿# Staking Explained
 
 Dear, let me tell you about something wonderfulâ€”**staking**.
 
@@ -36,3 +36,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

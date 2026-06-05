@@ -1,4 +1,4 @@
-﻿# How to Buy Your First Crypto ðŸ’°
+﻿# How to Buy Your First Crypto
 
 Dear, you want to buy crypto but don't know where to start?
 
@@ -102,3 +102,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

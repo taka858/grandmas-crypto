@@ -1,4 +1,4 @@
-﻿# What is Mining? â›ï¸
+﻿# What is Mining?
 
 Dear, let me explain something that sounds complicated but is actually quite beautifulâ€”**mining**.
 
@@ -28,3 +28,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+

@@ -1,4 +1,4 @@
-﻿# Crypto Glossary: Essential Terms for Beginners ðŸ“š
+﻿# Crypto Glossary: Essential Terms for Beginners
 
 Dear, crypto has its own language.
 
@@ -263,3 +263,4 @@ Use my Kraken referral link and get exclusive benefits:
 When you trade through my link, you support my content—and I earn a small commission!
 
 *Thank you for supporting Grandma's Crypto! 💚*
+
